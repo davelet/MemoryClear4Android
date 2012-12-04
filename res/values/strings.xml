@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">自建内存</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">晓东清理（定制版）</string>
+    <string name="total_mem">内存总量MB</string>
+    <string name="current_mem">当前内存MB</string>
+    <string name="clear_btn">内存清理</string>
+    <string name="pros">活动进程(清理水平:300)</string>
+    <string name="wait">正在刷新，请稍等</string>
+    <string name="xiaodong">晓东清理18817575857</string>
+    <string name="des1">2秒后自动杀进程</string>
+    <string name="des2">7秒后自动推出</string>
+    <string name="quit">将自动推出</string>
+
+</resources>

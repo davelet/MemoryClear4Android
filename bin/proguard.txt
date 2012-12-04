@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:16
+-keep class com.memory.clear.MainActivity { <init>(...); }
+
+# onClick res/layout/activity_main.xml #generated:67
+-keepclassmembers class * { *** clear(...); }
+
